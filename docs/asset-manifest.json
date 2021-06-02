@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/static/js/main.e8104593.chunk.js",
+    "main.js.map": "/static/js/main.e8104593.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e43cad6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e43cad6.js.map",
+    "static/css/2.a73cf336.chunk.css": "/static/css/2.a73cf336.chunk.css",
+    "static/js/2.fd2989c6.chunk.js": "/static/js/2.fd2989c6.chunk.js",
+    "static/js/2.fd2989c6.chunk.js.map": "/static/js/2.fd2989c6.chunk.js.map",
+    "static/js/3.9a006cf4.chunk.js": "/static/js/3.9a006cf4.chunk.js",
+    "static/js/3.9a006cf4.chunk.js.map": "/static/js/3.9a006cf4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a73cf336.chunk.css.map": "/static/css/2.a73cf336.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.fd2989c6.chunk.js.LICENSE.txt": "/static/js/2.fd2989c6.chunk.js.LICENSE.txt",
+    "static/media/banner_del_valle.0642cad3.png": "/static/media/banner_del_valle.0642cad3.png",
+    "static/media/banner_malinche.2205a44e.png": "/static/media/banner_malinche.2205a44e.png",
+    "static/media/banner_xochimilco.62219b84.png": "/static/media/banner_xochimilco.62219b84.png",
+    "static/media/burrico.f0556231.png": "/static/media/burrico.f0556231.png",
+    "static/media/burrito.9d6c3a39.png": "/static/media/burrito.9d6c3a39.png",
+    "static/media/insta.c8dd9fc4.png": "/static/media/insta.c8dd9fc4.png",
+    "static/media/logo.d7818360.png": "/static/media/logo.d7818360.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e43cad6.js",
+    "static/css/2.a73cf336.chunk.css",
+    "static/js/2.fd2989c6.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.e8104593.chunk.js"
+  ]
+}
